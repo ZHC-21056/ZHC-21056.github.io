@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Welcome to my Blog</title>
   
-  
+  <subtitle>我的世界</subtitle>
   <link href="http://zhc-21056.github.io/atom.xml" rel="self"/>
   
   <link href="http://zhc-21056.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://zhc-21056.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ZHC</name>
     
   </author>
   
